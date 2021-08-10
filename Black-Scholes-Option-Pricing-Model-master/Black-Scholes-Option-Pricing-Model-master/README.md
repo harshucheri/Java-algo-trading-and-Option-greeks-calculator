@@ -2,7 +2,6 @@
 ### Simulation of a Geometric Brownian Motion with Java
 ---
 
-**Ester Hlav, May 2017**
 
 This program is an *Option Pricing Model* based on the *Black-Scholes formula*. It includes both an **Option Pricing Calculator** as well as a  **Geometric Brownian Motion Simulator** based on a random generator. 
 Additionaly, based on parameters given by the user, the program can calculate **implied volatility** and **Greeks** (*i.e.* the derivatives of an option value regarding the different factors such as stock price, strike price, volatility etc.) as well as output diagrams of **option payoff** and **volatility smile**. 
